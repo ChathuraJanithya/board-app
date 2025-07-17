@@ -1,7 +1,6 @@
 import { Header } from "@/components/Header";
 import { Sidebar } from "@/components/Sidebar";
-
-import { Separator } from "@/components/ui/separator";
+import { Dashboard } from "@/components/Dashboard";
 
 export default function Home() {
   return (
@@ -9,6 +8,7 @@ export default function Home() {
       <Header />
       <div className=" w-full h-full flex">
         <Sidebar />
+        <Dashboard />
       </div>
     </div>
   );
