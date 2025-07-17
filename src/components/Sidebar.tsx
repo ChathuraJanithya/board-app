@@ -37,7 +37,7 @@ export function Sidebar() {
   ];
 
   return (
-    <div className=" w-72 bg-white border-r border-gray-200 flex flex-col flex-shrink-0 h-full">
+    <div className=" w-60 lg:w-72 bg-white border-r border-gray-200 flex flex-col flex-shrink-0 h-full">
       <div className="p-6 flex-shrink-0">
         <div className="flex items-center gap-2 mb-6">
           <div className="w-8 h-8 bg-gray-800 rounded-full flex items-center justify-center">

@@ -4,11 +4,11 @@ import { Separator } from "@/components/ui/separator";
 
 export function ProjectHeader() {
   return (
-    <div className="flex-shrink-0 p-6 bg-white border-b border-gray-200">
+    <div className="flex-shrink-0 p-6 bg-white ">
       <div className="flex items-center justify-between mb-4">
         <div className="flex items-center gap-3">
           <h1 className="text-2xl font-bold text-gray-900">Sport Xi Project</h1>
-          <Badge className="bg-[#FFA800]">in progress</Badge>
+          <Badge className="bg-[#FFA800] text-black">in progress</Badge>
         </div>
       </div>
 
