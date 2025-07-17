@@ -1,0 +1,261 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "User Interview",
+      "category": "Research",
+      "status": "To Do",
+      "assignees": [
+        {
+          "id": "1",
+          "name": "User",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "attachments": 2,
+      "comments": 2,
+      "dueDate": "Tomorrow",
+      "priority": "low"
+    },
+    {
+      "id": "2",
+      "title": "Design System",
+      "category": "Design",
+      "status": "To Do",
+      "assignees": [
+        {
+          "id": "2",
+          "name": "Medium",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "attachments": 3,
+      "comments": 8,
+      "reports": 2,
+      "priority": "medium"
+    },
+    {
+      "id": "3",
+      "title": "Speech",
+      "category": "Other",
+      "status": "To Do",
+      "assignees": [
+        {
+          "id": "3",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "attachments": 1,
+      "comments": 3,
+      "hasStream": true,
+      "priority": "low"
+    },
+    {
+      "id": "4",
+      "title": "Wireframe",
+      "category": "Design",
+      "status": "To Do",
+      "assignees": [
+        {
+          "id": "4",
+          "name": "High",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "hasPreview": true,
+      "priority": "high"
+    },
+    {
+      "id": "5",
+      "title": "UI Design",
+      "category": "Design",
+      "status": "In Progress",
+      "assignees": [
+        {
+          "id": "5",
+          "name": "High",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "attachments": 2,
+      "comments": 2,
+      "dueDate": "Tomorrow",
+      "priority": "high"
+    },
+    {
+      "id": "6",
+      "title": "Check Clients Feedback",
+      "category": "Feedback",
+      "status": "In Progress",
+      "assignees": [
+        {
+          "id": "6",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "comments": 8,
+      "dueDate": "22 April, 2022",
+      "hasPreview": true,
+      "priority": "low"
+    },
+    {
+      "id": "7",
+      "title": "Copyright",
+      "category": "Presentation",
+      "status": "In Progress",
+      "assignees": [
+        {
+          "id": "7",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "comments": 4,
+      "dueDate": "22 April, 2022",
+      "priority": "low"
+    },
+    {
+      "id": "8",
+      "title": "Filter sorting",
+      "category": "UX Research",
+      "status": "In Progress",
+      "assignees": [
+        {
+          "id": "8",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "priority": "low"
+    },
+    {
+      "id": "9",
+      "title": "Prototype",
+      "category": "Research",
+      "status": "Approved",
+      "assignees": [
+        {
+          "id": "9",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "attachments": 35,
+      "comments": 243,
+      "priority": "low"
+    },
+    {
+      "id": "10",
+      "title": "Detail Page",
+      "category": "Design",
+      "status": "Approved",
+      "assignees": [
+        {
+          "id": "10",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "attachments": 6,
+      "comments": 28,
+      "hasPreview": true,
+      "priority": "low"
+    },
+    {
+      "id": "11",
+      "title": "Animation preloaders",
+      "category": "Interface",
+      "status": "Approved",
+      "assignees": [
+        {
+          "id": "11",
+          "name": "High",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "attachments": 4,
+      "comments": 9,
+      "priority": "high"
+    },
+    {
+      "id": "12",
+      "title": "Sorting category",
+      "category": "UX Research",
+      "status": "Approved",
+      "assignees": [
+        {
+          "id": "12",
+          "name": "High",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "priority": "high"
+    },
+    {
+      "id": "13",
+      "title": "Group Management",
+      "category": "Other",
+      "status": "Reject",
+      "assignees": [
+        {
+          "id": "13",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "comments": 329,
+      "hasGroupCall": true,
+      "priority": "low"
+    },
+    {
+      "id": "14",
+      "title": "Design System",
+      "category": "Design",
+      "status": "Reject",
+      "assignees": [
+        {
+          "id": "14",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "attachments": 3,
+      "comments": 8,
+      "reports": 2,
+      "priority": "low"
+    },
+    {
+      "id": "15",
+      "title": "Slider controls",
+      "category": "Interface",
+      "status": "Reject",
+      "assignees": [
+        {
+          "id": "15",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "attachments": 8,
+      "comments": 31,
+      "priority": "low"
+    },
+    {
+      "id": "16",
+      "title": "Slider controls",
+      "category": "Design",
+      "status": "Reject",
+      "assignees": [
+        {
+          "id": "16",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "hasPreview": true,
+      "priority": "low"
+    }
+  ]
+}
