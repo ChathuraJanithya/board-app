@@ -19,7 +19,6 @@ A modern, responsive Kanban-style project management dashboard built with Next.j
 - **🎨 Modern UI**: Built with Radix UI components and Tailwind CSS
 - **⚡ Performance**: Powered by Next.js 15 with Turbopack for fast development
 - **🔄 State Management**: Zustand for efficient state handling
-- **📂 File Attachments**: Support for task attachments and comments
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +59,7 @@ Ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/board-app.git
+   git clone https://github.com/ChathuraJanithya/board-app.git
    cd board-app
    ```
 
@@ -163,10 +162,6 @@ board-app/
 
 The application adapts to different screen sizes:
 
-- **Desktop**: Full sidebar and multi-column layout
-- **Tablet**: Collapsible sidebar with grid layout
-- **Mobile**: Hidden sidebar with single-column stack
-
 ## 🔧 Available Scripts
 
 ```bash
@@ -185,16 +180,13 @@ npx tsc --noEmit     # Check TypeScript types without building
 The application includes API routes for task management:
 
 - `GET /api/tasks` - Retrieve all tasks
-- `POST /api/tasks` - Create a new task
-- `PUT /api/tasks/[id]` - Update a task
-- `DELETE /api/tasks/[id]` - Delete a task
 
 ## 🎨 Customization
 
 ### Styling
 
 - Modify `src/app/globals.css` for global styles
-- Update `tailwind.config.ts` for theme customization
+
 - Components use Tailwind classes for styling
 
 ### Adding New Task Statuses
@@ -208,5 +200,3 @@ The application includes API routes for task management:
 - All UI components are in `src/components/ui/`
 - Built with Radix UI primitives for accessibility
 - Styled with Tailwind CSS and CVA (Class Variance Authority)
-
-**Happy Project Managing! 🎉**
