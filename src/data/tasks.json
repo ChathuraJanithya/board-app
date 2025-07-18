@@ -5,6 +5,7 @@
       "title": "User Interview",
       "category": "Research",
       "status": "To Do",
+      "order": 0,
       "assignees": [
         {
           "id": "1",
@@ -22,6 +23,7 @@
       "title": "Design System",
       "category": "Design",
       "status": "To Do",
+      "order": 1,
       "assignees": [
         {
           "id": "2",
@@ -39,6 +41,7 @@
       "title": "Speech",
       "category": "Other",
       "status": "To Do",
+      "order": 2,
       "assignees": [
         {
           "id": "3",
@@ -56,6 +59,7 @@
       "title": "Wireframe",
       "category": "Design",
       "status": "To Do",
+      "order": 3,
       "assignees": [
         {
           "id": "4",
@@ -71,6 +75,7 @@
       "title": "UI Design",
       "category": "Design",
       "status": "In Progress",
+      "order": 0,
       "assignees": [
         {
           "id": "5",
@@ -88,6 +93,7 @@
       "title": "Check Clients Feedback",
       "category": "Feedback",
       "status": "In Progress",
+      "order": 1,
       "assignees": [
         {
           "id": "6",
@@ -105,6 +111,7 @@
       "title": "Copyright",
       "category": "Presentation",
       "status": "In Progress",
+      "order": 2,
       "assignees": [
         {
           "id": "7",
@@ -121,6 +128,7 @@
       "title": "Filter sorting",
       "category": "UX Research",
       "status": "In Progress",
+      "order": 3,
       "assignees": [
         {
           "id": "8",
@@ -135,6 +143,7 @@
       "title": "Prototype",
       "category": "Research",
       "status": "Approved",
+      "order": 0,
       "assignees": [
         {
           "id": "9",
@@ -151,6 +160,7 @@
       "title": "Detail Page",
       "category": "Design",
       "status": "Approved",
+      "order": 1,
       "assignees": [
         {
           "id": "10",
@@ -168,6 +178,7 @@
       "title": "Animation preloaders",
       "category": "Interface",
       "status": "Approved",
+      "order": 2,
       "assignees": [
         {
           "id": "11",
@@ -184,6 +195,7 @@
       "title": "Sorting category",
       "category": "UX Research",
       "status": "Approved",
+      "order": 3,
       "assignees": [
         {
           "id": "12",
@@ -198,6 +210,7 @@
       "title": "Group Management",
       "category": "Other",
       "status": "Reject",
+      "order": 0,
       "assignees": [
         {
           "id": "13",
@@ -214,6 +227,7 @@
       "title": "Design System",
       "category": "Design",
       "status": "Reject",
+      "order": 1,
       "assignees": [
         {
           "id": "14",
@@ -231,6 +245,7 @@
       "title": "Slider controls",
       "category": "Interface",
       "status": "Reject",
+      "order": 2,
       "assignees": [
         {
           "id": "15",
@@ -247,6 +262,7 @@
       "title": "Slider controls",
       "category": "Design",
       "status": "Reject",
+      "order": 3,
       "assignees": [
         {
           "id": "16",
@@ -255,6 +271,75 @@
         }
       ],
       "hasPreview": true,
+      "priority": "low"
+    },
+    {
+      "id": "17",
+      "title": "Design System",
+      "category": "Design",
+      "status": "To Do",
+      "order": 4,
+      "assignees": [
+        {
+          "id": "17",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "attachments": 3,
+      "comments": 8,
+      "reports": 2,
+      "priority": "low"
+    },
+    {
+      "id": "18",
+      "title": "Slider controls",
+      "category": "Interface",
+      "status": "To Do",
+      "order": 5,
+      "assignees": [
+        {
+          "id": "18",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "attachments": 8,
+      "comments": 31,
+      "priority": "low"
+    },
+    {
+      "id": "19",
+      "title": "Slider controls",
+      "category": "Design",
+      "status": "To Do",
+      "order": 6,
+      "assignees": [
+        {
+          "id": "19",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "hasPreview": true,
+      "priority": "low"
+    },
+    {
+      "id": "20",
+      "title": "Design System",
+      "category": "Design",
+      "status": "In Progress",
+      "order": 7,
+      "assignees": [
+        {
+          "id": "20",
+          "name": "Low",
+          "avatar": "/placeholder.svg?height=32&width=32"
+        }
+      ],
+      "attachments": 3,
+      "comments": 8,
+      "reports": 2,
       "priority": "low"
     }
   ]

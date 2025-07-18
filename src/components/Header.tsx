@@ -3,6 +3,7 @@
 import { useTaskStore } from "@/store/use-task-store";
 
 import { Search, Plus, Bell, Settings } from "lucide-react";
+import Image from "next/image";
 
 export function Header() {
   const { searchQuery, setSearchQuery } = useTaskStore();
@@ -10,13 +11,7 @@ export function Header() {
     <header className="bg-white border-b border-gray-200 px-6 py-4 flex-shrink-0">
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-4">
-          <div className="flex items-center gap-2">
-            <div className="w-6 h-6 bg-blue-600 rounded flex items-center justify-center">
-              <span className="text-white text-xs font-bold">B</span>
-            </div>
-            <span className="font-semibold text-gray-900">Board</span>
-            <span className="text-blue-600 font-medium">App</span>
-          </div>
+          <Image src="/logo.png" alt="Logo" width={98} height={24} />
         </div>
 
         <div className="flex items-center gap-4">

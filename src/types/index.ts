@@ -22,4 +22,5 @@ export interface Task {
   hasPreview?: boolean;
   hasGroupCall?: boolean;
   priority: Priority;
+  order: number;
 }

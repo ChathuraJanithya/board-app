@@ -81,7 +81,7 @@ export function TaskCard({ task, isDragOverlay = false }: TaskCardProps) {
       {/* Assignees */}
       <div className="flex items-center gap-2 mb-3">
         <div className="flex -space-x-2">
-          {task.assignees.slice(0, 2).map((assignee, index) => (
+          {task.assignees.slice(0, 2).map((assignee) => (
             <div key={assignee.id} className="relative">
               <div className="w-6 h-6 bg-gray-300 rounded-full border-2 border-white flex items-center justify-center">
                 <span className="text-xs font-medium text-gray-600">
